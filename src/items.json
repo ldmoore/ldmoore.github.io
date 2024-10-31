@@ -1,0 +1,37 @@
+{
+    "intellicoach": {
+        "name": "intelli.coach",
+        "short_description": "App that helps youth sports coaches revolutionize their substitutions",
+        "long_description": "I designed intelli.coach to help youth sports coaches create fair and balanced lineups. When coaching my little brother's soccer team alongside my dad, I planned lineups before the game only to have to change my plan when a player showed up late or was injured. I realized there had to be a better way.\n\nThus, intelli.coach was born. The first version was a web app designed specifically for our team, but after talking with other coaches I determined there was a need for a tool that could improve the coaching experience for coaches around the world. I spent years iterating and testing an algorithm to distribute fair playtime while also maximizing lineup strength.\n\nintelli.coach is available on the Apple App Store and used by over 1,500 coaches in over 30 countries.",
+        "icon": "intellicoach.png",
+        "large_img": "ic_map.png",
+        "features": ["1,500+ Users", "Used In 30+ Countries"],
+        "links": { "App Store Link": "https://apps.apple.com/us/app/intelli-coach/id1560730134" }
+    },
+    "publishedwork": {
+        "name": "Journalism Work",
+        "short_description": "Journalism projects I've worked on during my time at UNC\n",
+        "long_description": "I worked as a Staff Writer for the Daily Tar Heel's University desk during the 2023-24 school year, where I produced many articles about events and issues important to the campus community. I also produced a digital story about UNC's student radio station, WXYC.",
+        "icon": "news.jpg",
+        "large_img": "",
+        "features": ["Published in the Daily Tar Heel"],
+        "links": {
+            "Broadcasting Music, Finding Community (Digital Story)": "https://www.youtube.com/watch?v=BKSNS_9wgw0",
+            "SCiLL dean finalists present visions for school as search moves to next phase (Article)": "https://www.dailytarheel.com/article/2024/01/university-scill-dean-search",
+            "Jed Atkins named director and dean of UNC's School of Civic Life and Leadership (Article)": "Jed Atkins named director and dean of UNC's School of Civic Life and Leadership",
+            "FEC discusses Chancellor departure, discourse on campus during first meeting of 2024 (Article)": "https://www.dailytarheel.com/article/2024/01/university-fec-meeting-0108",
+            "New 2023 campus leaders find success, challenges in first year (Article)": "https://www.dailytarheel.com/article/2023/12/university-campus-leadership-yir",
+            "Leyla Santiago brings new perspective, representation to Hussman school": "https://www.dailytarheel.com/article/2023/10/university-leyla-santiago-conversation",
+            "UNC opens new Innovation Junction on Franklin Street (Article)": "https://www.dailytarheel.com/article/2023/10/university-innovate-carolina-junction"
+        }
+    },
+    "aboutme": {
+        "name": "About Me",
+        "short_description": "Learn more about me!",
+        "long_description": "My name is Lucas Moore, I'm a sophomore at UNC Chapel Hill in the Honors Carolina program. I'm majoring in computer science with a minor in journalism, two of my lifelong interests that I'm expanding on at Carolina.\n\nOutside of class, I'm an avid rock climber. I work at UNC's campus climbing wall and as an expedition leader for the school's outdoor expeditions program.",
+        "icon": "lucas.png",
+        "large_img": "",
+        "features": ["CS Student @ UNC", "Rock Climber"],
+        "links": { "LinkedIn": "https://www.linkedin.com/in/lucas-moore-unc/", "Email": "mailto:ldmoore0205@gmail.com", "Github": "https://github.com/ldmoore" }
+    }
+}
